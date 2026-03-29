@@ -56,7 +56,7 @@ URL_Analyzer is a cybersecurity-focused web application designed to detect and a
 ## 📁 Project Structure
 
 ```
-IronCrypt-2-main/
+URL_Analyzer/
 │── client/          # Frontend application
 │── api/             # Backend API (URL scanning logic)
 │── archive/         # Dataset (Phishing URLs)
@@ -71,8 +71,7 @@ IronCrypt-2-main/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/IronCrypt.git
-cd IronCrypt
+git clone https://github.com/https://github.com/DarkUser7/URL_Analyzer.git
 ```
 
 ---
