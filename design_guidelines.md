@@ -3,7 +3,7 @@
 ## Design Approach
 
 **Selected System**: Security-focused design inspired by Linear + Stripe's data visualization patterns
-**Justification**: Utility-first application requiring trust signals, data clarity, and professional credibility. Security tools demand minimal distraction with maximum information density.
+**Justification**: Utility-first application requiring trust signals, data clarity, and professional credibility. Security tools demand minimal distraction with maximum information density..
 
 ## Core Design Elements
 
