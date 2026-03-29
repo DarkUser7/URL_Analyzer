@@ -84,7 +84,6 @@ export async function registerRoutes(app: Express): Promise<Server> {
       return res.status(500).json({ message: "Internal server error" });
     }
   });
-  // Load dataset before registering routes
   await loadDataset();
   // User registration with validation and error handling
   app.post("/api/register", async (req: Request, res: Response) => {
