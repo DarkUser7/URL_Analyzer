@@ -1,0 +1,14 @@
+A web-based malicious URL detection system with AI-powered scanning, Google OAuth login, guest access, and comprehensive scan history dashboard
+I'll include the following features:
+
+Guest access allowing URL scanning without login (limited to 5 scans per session, no history)
+User authentication with Replit Auth supporting Google, GitHub, email/password login
+Manual URL scan interface with real-time results and threat visualization
+AI-powered URL classification using Hugging Face Inference API (benign/suspicious/malicious)
+Rule-based fallback detection with domain reputation checks and keyword analysis
+Persistent scan history for authenticated users with URL, timestamp, classification, and confidence scores
+User dashboard showing personal scan history with search, filter, and pagination
+Scan result details page with confidence scores and classification reasoning
+URL validation and SSRF protection against local IPs
+Modern, security-focused UI with color-coded threat levels and guest/authenticated modes
+Export scan history functionality for authenticated users (CSV/JSON)
